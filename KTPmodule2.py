@@ -10,7 +10,7 @@ import sys
 
 
 
-
+#thêm dòng này thử pull về
 class KTP_EtabModel:
 	def __init__(self):
 		self.EtabsModel, self.Etabs_file_full_name, self.Etabs_file_name = self.KTP_connect_etab()
