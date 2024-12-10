@@ -1,7 +1,7 @@
 import comtypes.client
 import sys
 #-----------------------------------------
-
+#Sau khi clone về, giờ thêm dòng này để push lên
 
 
 #Thêm dòng này để test
