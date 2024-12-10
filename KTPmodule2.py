@@ -3,7 +3,7 @@ import sys
 #-----------------------------------------
 
 
-
+#thêm dòng này từ github để test pull về
 
 class KTP_EtabModel:
 	def __init__(self):
